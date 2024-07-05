@@ -1,0 +1,10 @@
+# Goal
+int64 position
+float64 period
+---
+# Result
+string message
+int64 position
+---
+# Feedback
+int64 current_position
